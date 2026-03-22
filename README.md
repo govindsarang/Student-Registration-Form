@@ -92,9 +92,3 @@ Student-Registration-Form/
 
 **Govind Sarang**
 - GitHub: [@govindsarang](https://github.com/govindsarang)
-
----
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
