@@ -1,16 +1,16 @@
-# 📋 Student Registration Form
+# Student Registration Form
 
 A simple, clean **Student Registration Form** built using pure HTML — no CSS, no JavaScript required! This project demonstrates the use of various HTML input types, semantic structure, and form accessibility best practices.
 
 ---
 
-## 🌐 Live Preview
+## Live Preview
 
 > Open `index.html` directly in any browser to see the form in action.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Student-Registration-Form/
@@ -21,7 +21,7 @@ Student-Registration-Form/
 
 ---
 
-## 📝 Form Sections
+## Form Sections
 
 | Section | Input Type Used |
 |---|---|
@@ -40,7 +40,7 @@ Student-Registration-Form/
 
 ---
 
-## ✅ Features
+## Features
 
 - Uses semantic HTML with proper `<form>` structure
 - Every input has a matching `<label>` for accessibility
@@ -52,7 +52,7 @@ Student-Registration-Form/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 1. **Clone the repository:**
    ```bash
@@ -70,7 +70,7 @@ Student-Registration-Form/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -79,7 +79,7 @@ Student-Registration-Form/
 
 ---
 
-## 📌 HTML Concepts Covered
+## HTML Concepts Covered
 
 - `<form>`, `<label>`, `<input>`, `<select>`, `<textarea>`, `<button>`
 - Input types: `text`, `email`, `password`, `tel`, `date`, `radio`, `checkbox`, `file`
@@ -88,13 +88,13 @@ Student-Registration-Form/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Govind Sarang**
 - GitHub: [@govindsarang](https://github.com/govindsarang)
 
 ---
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
